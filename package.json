@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^13.10.0",
+    "yarn": "^1.22.22"
+  },
+  "name": "bootcamp-todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alessandro Andrade",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
